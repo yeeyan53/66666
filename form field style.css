@@ -1,0 +1,21 @@
+.form-control{
+    background-color: #3CBC8D;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 2px solid red;
+}
+
+.form-control:hover {
+    border-color: aqua;
+    border-radius: 100Px;
+}
+
+.form-control:active {
+    background-color: aquamarine;
+    border: 0px;
+}
+
+.form-control:focus {
+    border-color: bisque;
+    box-shadow: 0 0 0 0.2rem rgba(red, green, blue, alpha);
+}

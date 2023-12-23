@@ -1,0 +1,89 @@
+/* Background Colour Start */
+
+.bg-yellow {
+    background-color: yellow;
+}
+
+.bg-red {
+    background-color: red;
+}
+
+.bg-blue {
+    background-color: lightblue;
+}
+
+.bg-green {
+    background-color: green;
+}
+
+.bg-grey {
+    background-color: grey;
+}
+
+.bg-black {
+    background-color: black;
+}
+
+.bg-pink {
+    background-color: pink;
+}
+
+.bg-orange {
+    background-color: orange;
+}
+
+.bg-purple {
+    background-color: purple;
+}
+
+.bg-violet {
+    background-color: violet;
+}
+
+.bg-gold {
+    background-color: gold;
+}
+
+.bg-brown {
+    background-color: brown;
+}
+
+/* Background Colour End */
+
+
+/* Div SIze Start */
+.div-size-square {
+    width: 100px;
+    height: 100px;
+}
+
+.div-size-height {
+    height: 240px;
+}
+/* Div Size End */
+
+
+/*Div circle start*/
+.div-size-circle {
+    font-size: 30px;
+    width: 300px;
+    height: 300px;
+    background: red;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.div-small-text {
+    margin-top: 30%;
+    font-size: 18px;
+}
+
+/* Div circle end */
+
+
+.icon-size {
+    font-size: 150px;
+}
